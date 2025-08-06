@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|c:\\users\\lenovo\\source\\repos\\demoapp\\demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74E7F5C8-3731-4491-B86C-59EB13AD8D13}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Models\\User.cs",
+              "RelativeToolTip": "DemoApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:01:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataItem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Models\\DataItem.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Models\\DataItem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Models\\DataItem.cs",
+              "RelativeToolTip": "DemoApp\\Models\\DataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:01:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DemoApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:58:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Controllers\\DataController.cs",
+              "RelativeToolTip": "DemoApp\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:58:47.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeToolTip": "DemoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T07:03:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:16:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoApp.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeToolTip": "DemoApp\\DemoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T05:55:41.253Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
